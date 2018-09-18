@@ -1,0 +1,9 @@
+1)	Open dconf-editor and go to org/gnome/nautilus/preferences/executable-text-activation  and set the custom value to launch.
+
+2)	Now inside the .sh file write:
+		gnome-terminal -e "your command here"
+		
+	for example to launch a python program write
+			:gnome-terminal -e "python run.py"
+			
+3)	To make the terminal wait after the execution of the command open terminal preferences->command  and set the "When command exits: " to "hold the terminal open".
