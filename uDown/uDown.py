@@ -13,6 +13,7 @@ if len(ulink)==0:
 
 print("The link given is: " + ulink + "\n")
 
+dlink=ulink
 ulink = "https://www.gen" + ulink[12:]
 
 
@@ -23,16 +24,28 @@ soup= bs4.BeautifulSoup(res.text,features='html5lib')
 
 elems= soup.select('a[data-itag="22"]')
 
-if len(elems)==0:
-	print("Sorry, the 720p downloadable file is missing\n playing the 360p file\n")
-	elems= soup.select('a[data-itag="18"]')
+if len(elems)!=0:
+	webbrowser.open(elems[0].get('href'))
 
 if len(elems)==0:
-	print("Sorry, could not find the downloadable files for your request\n The downloader will now exit\n")
-	#time.sleep(3)
-	exit()
+	print("Sorry, the 720p downloadable file is missing from the Gen repository\n Opening the Save from net website\n")
+	import pyperclip
+	from selenium import webdriver
+
+	dlink= "https://www.ss"+ dlink[12:]
+	browser= webdriver.Firefox()
+	browser.get(dlink)
+
+	link = browser.find_elements_by_link_text('Download')
+
+	if len(link)==0:
+		print("Downloadable file NOT FOUND, \nExiting... \n")
+		exit()
 	
-webbrowser.open(elems[0].get('href'))
+	link[0].click()
 
 print("Commencing the download via Browser\n PLEASE SELECT SAVE AS \n THANK YOU")
+
+
+
 
