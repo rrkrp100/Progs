@@ -1,0 +1,1080 @@
+1538258102921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i3BZy9mkNp6W"
+
+(firefox:26340): Gtk-WARNING **: 03:25:03.098: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:26340): Gtk-WARNING **: 03:25:03.098: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:26340): Gtk-WARNING **: 03:25:03.098: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:26427): Gtk-WARNING **: 03:25:05.544: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:26427): Gtk-WARNING **: 03:25:05.544: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:26427): Gtk-WARNING **: 03:25:05.544: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538258106571	Marionette	INFO	Listening on port 38335
+1538258106641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538258106688	Marionette	DEBUG	[2147483649] Frame script loaded
+1538258106689	Marionette	DEBUG	[2147483649] Frame script registered
+1538258106741	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:26488): Gtk-WARNING **: 03:25:06.759: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:26488): Gtk-WARNING **: 03:25:06.759: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:26488): Gtk-WARNING **: 03:25:06.759: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538258110484	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538258114774	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=0VwgpYJ4q38&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538258116728	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=0VwgpYJ4q38&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+[Parent 26340, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538258161937	Marionette	INFO	Stopped listening on port 38335
+1538258168091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eqPCF23nWaZ7"
+
+(firefox:26566): Gtk-WARNING **: 03:26:08.140: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:26566): Gtk-WARNING **: 03:26:08.140: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:26566): Gtk-WARNING **: 03:26:08.140: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:26647): Gtk-WARNING **: 03:26:10.682: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:26647): Gtk-WARNING **: 03:26:10.683: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:26647): Gtk-WARNING **: 03:26:10.683: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538258171616	Marionette	INFO	Listening on port 41709
+1538258171712	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26716): Gtk-WARNING **: 03:26:11.726: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:26716): Gtk-WARNING **: 03:26:11.726: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:26716): Gtk-WARNING **: 03:26:11.726: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538258171766	Marionette	DEBUG	[2147483649] Frame script loaded
+1538258171774	Marionette	DEBUG	[2147483649] Frame script registered
+1538258171790	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538258177025	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538258180166	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=0VwgpYJ4q38&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538258182560	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538258183544	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=0VwgpYJ4q38&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538258183808	Marionette	DEBUG	[2147483663] Frame script loaded
+1538258183825	Marionette	DEBUG	[2147483663] Frame script registered
+1538258183859	Marionette	DEBUG	[2147483666] Frame script loaded
+1538258183860	Marionette	DEBUG	[2147483666] Frame script registered
+1538258183867	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=0VwgpYJ4q38&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538258189095	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538258944450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YAVpIlzvaHth"
+
+(firefox:27058): Gtk-WARNING **: 03:39:04.533: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:27058): Gtk-WARNING **: 03:39:04.533: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:27058): Gtk-WARNING **: 03:39:04.533: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:27141): Gtk-WARNING **: 03:39:06.970: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:27141): Gtk-WARNING **: 03:39:06.970: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:27141): Gtk-WARNING **: 03:39:06.970: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538258947983	Marionette	INFO	Listening on port 39301
+1538258948099	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27210): Gtk-WARNING **: 03:39:08.130: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:27210): Gtk-WARNING **: 03:39:08.130: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:27210): Gtk-WARNING **: 03:39:08.130: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538258948160	Marionette	DEBUG	[2147483649] Frame script loaded
+1538258948161	Marionette	DEBUG	[2147483649] Frame script registered
+1538258981211	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538258981934	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538258982627	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/watch.php?a=Overlord%203rd%20Season&e=12
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:27141): dconf-WARNING **: 03:39:46.454: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538258987732	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483678
+1538258987855	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+[Parent 26566, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538258989455	Marionette	INFO	Stopped listening on port 41709
+JavaScript error: http://c1.popads.net/pop.js, line 6: ReferenceError: event is not defined
+1538258995770	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/watch.php?a=Overlord%203rd%20Season&e=12
+[Parent 27058, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538259126730	Marionette	INFO	Stopped listening on port 39301
+1538261402654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b3DaCZEbZnBF"
+
+(firefox:28149): Gtk-WARNING **: 04:20:02.709: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:28149): Gtk-WARNING **: 04:20:02.709: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:28149): Gtk-WARNING **: 04:20:02.709: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28240): Gtk-WARNING **: 04:20:04.752: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28240): Gtk-WARNING **: 04:20:04.752: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28240): Gtk-WARNING **: 04:20:04.752: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261405741	Marionette	INFO	Listening on port 40513
+1538261405776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538261405832	Marionette	DEBUG	[2147483649] Frame script loaded
+1538261405841	Marionette	DEBUG	[2147483649] Frame script registered
+1538261405868	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:28305): Gtk-WARNING **: 04:20:05.877: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28305): Gtk-WARNING **: 04:20:05.877: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28305): Gtk-WARNING **: 04:20:05.877: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261406510	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538261408250	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Black%20Clover
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:28240): dconf-WARNING **: 04:20:12.009: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538261413411	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1538261414532	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261414598	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261414886	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261414887	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261415283	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261415319	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1538261415319	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538261415319	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1538261415320	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1538261415321	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483678
+1538261415321	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538261415322	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538261415323	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483670
+1538261415324	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+1538261416481	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483701
+1538261416484	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483706
+1538261427621	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261427758	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261433830	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261433831	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261433840	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1538261433840	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1538261433840	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483709
+1538261433841	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483696
+1538261433841	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1538261433841	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483711
+1538261433842	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1538261433842	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483689
+1538261433843	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483699
+1538261433843	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483703
+1538261433844	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 28149, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538261434603	Marionette	INFO	Stopped listening on port 40513
+1538261498646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B4P1hlsd3frd"
+
+(firefox:28502): Gtk-WARNING **: 04:21:38.692: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:28502): Gtk-WARNING **: 04:21:38.692: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:28502): Gtk-WARNING **: 04:21:38.692: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28601): Gtk-WARNING **: 04:21:40.820: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28601): Gtk-WARNING **: 04:21:40.820: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28601): Gtk-WARNING **: 04:21:40.820: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261501563	Marionette	INFO	Listening on port 38525
+1538261501664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538261501737	Marionette	DEBUG	[2147483649] Frame script loaded
+1538261501738	Marionette	DEBUG	[2147483649] Frame script registered
+1538261501778	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:28664): Gtk-WARNING **: 04:21:41.822: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28664): Gtk-WARNING **: 04:21:41.822: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28664): Gtk-WARNING **: 04:21:41.822: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261502378	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538261502847	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Black%20Clover
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:28601): dconf-WARNING **: 04:21:46.270: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538261506552	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1538261507039	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1538261508492	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261508566	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261508843	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261508844	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261509259	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261509263	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1538261509263	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538261509264	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538261509264	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538261509264	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1538261509265	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538261509265	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1538261509265	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1538261509266	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1538261509266	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+1538261510359	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483710
+1538261510527	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483705
+1538261514303	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261514454	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261538459	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261538460	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261538469	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1538261538470	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483696
+1538261538471	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483713
+1538261538471	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483699
+1538261538471	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1538261538472	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483715
+1538261538473	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483692
+1538261538473	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483693
+1538261538474	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483703
+1538261538475	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483707
+1538261538480	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1090:3
+
+1538261538527	Marionette	DEBUG	[4294967297] Frame script loaded
+1538261538528	Marionette	DEBUG	[4294967297] Frame script registered
+1538261538558	Marionette	DEBUG	[4294967299] Frame script loaded
+1538261538559	Marionette	DEBUG	[4294967299] Frame script registered
+
+(/usr/lib/firefox/firefox:28775): Gtk-WARNING **: 04:22:19.627: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28775): Gtk-WARNING **: 04:22:19.627: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:28775): Gtk-WARNING **: 04:22:19.627: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261541298	Marionette	DEBUG	[4294967303] Frame script loaded
+1538261541298	Marionette	DEBUG	[4294967303] Frame script registered
+[Parent 28502, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538261543871	Marionette	INFO	Stopped listening on port 38525
+1538261595089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rRTqVy3SUmj4"
+
+(firefox:28920): Gtk-WARNING **: 04:23:15.168: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:28920): Gtk-WARNING **: 04:23:15.168: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:28920): Gtk-WARNING **: 04:23:15.168: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29004): Gtk-WARNING **: 04:23:17.353: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29004): Gtk-WARNING **: 04:23:17.353: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29004): Gtk-WARNING **: 04:23:17.353: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261598344	Marionette	INFO	Listening on port 37139
+1538261598416	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29065): Gtk-WARNING **: 04:23:18.450: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29065): Gtk-WARNING **: 04:23:18.450: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29065): Gtk-WARNING **: 04:23:18.450: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261598467	Marionette	DEBUG	[2147483649] Frame script loaded
+1538261598471	Marionette	DEBUG	[2147483649] Frame script registered
+1538261598490	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538261602623	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538261604814	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=zYhBJoBUSYA&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538261607224	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538261608145	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=zYhBJoBUSYA&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538261608441	Marionette	DEBUG	[2147483663] Frame script loaded
+1538261608449	Marionette	DEBUG	[2147483663] Frame script registered
+1538261608472	Marionette	DEBUG	[2147483666] Frame script loaded
+1538261608474	Marionette	DEBUG	[2147483666] Frame script registered
+1538261608484	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=zYhBJoBUSYA&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538261613669	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 28920, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538261828417	Marionette	INFO	Stopped listening on port 37139
+1538261838347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OGN9mkarJu2H"
+
+(firefox:29194): Gtk-WARNING **: 04:27:18.397: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:29194): Gtk-WARNING **: 04:27:18.398: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:29194): Gtk-WARNING **: 04:27:18.398: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29283): Gtk-WARNING **: 04:27:20.819: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29283): Gtk-WARNING **: 04:27:20.819: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29283): Gtk-WARNING **: 04:27:20.819: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261841873	Marionette	INFO	Listening on port 39689
+
+(/usr/lib/firefox/firefox:29350): Gtk-WARNING **: 04:27:21.981: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29350): Gtk-WARNING **: 04:27:21.982: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29350): Gtk-WARNING **: 04:27:21.982: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261841984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538261842038	Marionette	DEBUG	[2147483649] Frame script loaded
+1538261842039	Marionette	DEBUG	[2147483649] Frame script registered
+1538261842062	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538261842613	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538261843122	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Black%20Clover
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:29283): dconf-WARNING **: 04:27:26.125: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538261846400	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1538261846546	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1538261847127	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261847192	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261847481	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261847482	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261847953	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261847988	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1538261847988	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1538261847989	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538261847990	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538261847995	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1538261847995	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538261847995	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1538261847996	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538261847996	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1538261847996	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+1538261849385	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483709
+1538261849387	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483704
+1538261851107	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261851264	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261866082	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261866083	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261866092	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1538261866092	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483696
+1538261866093	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483712
+1538261866093	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483699
+1538261866094	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1538261866094	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483714
+1538261866094	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483688
+1538261866094	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483694
+1538261866095	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483702
+1538261866096	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483706
+1538261866097	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 29194, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538261866811	Marionette	INFO	Stopped listening on port 39689
+1538261868769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yc3VFJG0ApfU"
+
+(firefox:29446): Gtk-WARNING **: 04:27:48.816: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:29446): Gtk-WARNING **: 04:27:48.817: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:29446): Gtk-WARNING **: 04:27:48.817: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29549): Gtk-WARNING **: 04:27:51.120: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29549): Gtk-WARNING **: 04:27:51.121: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29549): Gtk-WARNING **: 04:27:51.121: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261872063	Marionette	INFO	Listening on port 40003
+1538261872084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538261872135	Marionette	DEBUG	[2147483649] Frame script loaded
+1538261872136	Marionette	DEBUG	[2147483649] Frame script registered
+1538261872152	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:29618): Gtk-WARNING **: 04:27:52.249: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29618): Gtk-WARNING **: 04:27:52.249: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29618): Gtk-WARNING **: 04:27:52.249: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261872823	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538261873309	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Black%20Clover
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:29549): dconf-WARNING **: 04:27:56.421: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538261877728	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1538261877989	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261878048	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261878336	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261878338	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261878800	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261878834	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1538261878834	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1538261878835	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538261878835	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538261878835	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1538261878835	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538261878836	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1538261878836	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1538261878836	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1538261878837	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1538261878838	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+1538261879984	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483706
+1538261879985	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483711
+1538261883281	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261883455	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261904548	Marionette	DEBUG	[2147483718] Frame script loaded
+1538261904568	Marionette	DEBUG	[2147483718] Frame script registered
+1538261944757	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261944757	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261944769	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1538261944770	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1538261944770	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483714
+1538261944770	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483701
+1538261944771	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1538261944771	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483716
+1538261944771	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483689
+1538261944772	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483695
+1538261944772	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483704
+1538261944773	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483708
+1538261944774	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 29446, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538261945376	Marionette	INFO	Stopped listening on port 40003
+1538261946875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fqge9npBeoWG"
+
+(firefox:29851): Gtk-WARNING **: 04:29:06.922: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:29851): Gtk-WARNING **: 04:29:06.922: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:29851): Gtk-WARNING **: 04:29:06.923: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29933): Gtk-WARNING **: 04:29:09.296: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29933): Gtk-WARNING **: 04:29:09.296: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29933): Gtk-WARNING **: 04:29:09.296: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261950306	Marionette	INFO	Listening on port 33543
+1538261950394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538261950461	Marionette	DEBUG	[2147483649] Frame script loaded
+1538261950462	Marionette	DEBUG	[2147483649] Frame script registered
+
+(/usr/lib/firefox/firefox:29994): Gtk-WARNING **: 04:29:10.488: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29994): Gtk-WARNING **: 04:29:10.488: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:29994): Gtk-WARNING **: 04:29:10.488: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538261950492	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538261951100	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538261951560	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Black%20Clover
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:29933): dconf-WARNING **: 04:29:14.756: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538261955987	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1538261956435	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261956503	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261956810	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261956812	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538261957253	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261957307	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1538261957308	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1538261957308	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538261957308	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538261957308	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1538261957309	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538261957309	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1538261957309	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1538261957310	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1538261957310	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1538261957311	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+1538261958537	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483697
+1538261959364	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483710
+1538261967969	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538261968138	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+JavaScript error: resource://gre/modules/DownloadCore.jsm, line 2093: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIStreamListener.onDataAvailable]
+1538261988942	Marionette	DEBUG	[2147483717] Frame script loaded
+1538261988964	Marionette	DEBUG	[2147483717] Frame script registered
+1538262061981	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538262061981	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=51
+1538262061992	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1538262061993	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483700
+1538262061994	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483713
+1538262061994	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483705
+1538262061995	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1538262061995	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483715
+1538262061996	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483688
+1538262061996	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483699
+1538262061997	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483708
+1538262061998	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483694
+1538262061999	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 29851, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538262062623	Marionette	INFO	Stopped listening on port 33543
+1538262092030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TrKGGh7UKrXv"
+
+(firefox:30302): Gtk-WARNING **: 04:31:32.078: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:30302): Gtk-WARNING **: 04:31:32.078: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:30302): Gtk-WARNING **: 04:31:32.078: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30383): Gtk-WARNING **: 04:31:34.515: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30383): Gtk-WARNING **: 04:31:34.515: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30383): Gtk-WARNING **: 04:31:34.516: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538262095445	Marionette	INFO	Listening on port 38127
+1538262095557	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30446): Gtk-WARNING **: 04:31:35.610: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30446): Gtk-WARNING **: 04:31:35.610: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30446): Gtk-WARNING **: 04:31:35.610: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538262095620	Marionette	DEBUG	[2147483649] Frame script loaded
+1538262095622	Marionette	DEBUG	[2147483649] Frame script registered
+1538262095637	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538262096194	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538262097079	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Dragon%20Ball%20Super
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:30383): dconf-WARNING **: 04:31:40.272: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538262100601	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1538262102035	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1538262102321	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Dragon%20Ball%20Super
+1538262102794	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/i.php?a=Dragon%20Ball%20Super
+1538262103076	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/i.php?a=Dragon%20Ball%20Super
+1538262103076	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/i.php?a=Dragon%20Ball%20Super
+1538262103630	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/watch.php?a=Dragon%20Ball%20Super&e=131
+1538262103684	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1538262103684	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1538262103685	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1538262103685	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538262103685	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1538262103686	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538262103686	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1538262103686	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1538262103687	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1538262103688	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+1538262104943	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483709
+1538262104944	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483704
+1538262108977	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/watch.php?a=Dragon%20Ball%20Super&e=131
+1538262109128	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/watch.php?a=Dragon%20Ball%20Super&e=131
+1538262125092	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/watch.php?a=Dragon%20Ball%20Super&e=131
+1538262125093	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/watch.php?a=Dragon%20Ball%20Super&e=131
+1538262125102	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1538262125102	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483696
+1538262125103	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483712
+1538262125103	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483699
+1538262125104	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1538262125104	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483714
+1538262125105	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483689
+1538262125105	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483694
+1538262125106	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483702
+1538262125107	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483706
+1538262125108	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 30302, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538262125917	Marionette	INFO	Stopped listening on port 38127
+1538262178996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vM4NRJHJz6gA"
+
+(firefox:30554): Gtk-WARNING **: 04:32:59.042: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:30554): Gtk-WARNING **: 04:32:59.042: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:30554): Gtk-WARNING **: 04:32:59.042: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30644): Gtk-WARNING **: 04:33:01.209: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30644): Gtk-WARNING **: 04:33:01.209: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30644): Gtk-WARNING **: 04:33:01.209: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538262182327	Marionette	INFO	Listening on port 43139
+1538262182425	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30710): Gtk-WARNING **: 04:33:02.429: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30710): Gtk-WARNING **: 04:33:02.429: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30710): Gtk-WARNING **: 04:33:02.429: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538262182490	Marionette	DEBUG	[2147483649] Frame script loaded
+1538262182490	Marionette	DEBUG	[2147483649] Frame script registered
+1538262182512	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538262183133	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538262183588	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Dragon%20Ball%20Super
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:30644): dconf-WARNING **: 04:33:06.930: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538262188236	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1538262188399	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Dragon%20Ball%20Super
+1538262188515	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/i.php?a=Dragon%20Ball%20Super
+1538262188668	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483678
+1538262188801	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/i.php?a=Dragon%20Ball%20Super
+1538262188801	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/i.php?a=Dragon%20Ball%20Super
+1538262189176	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1538262189176	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1538262189176	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1538262189177	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1538262189177	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1538262189186	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538262189187	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538262189187	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1538262189187	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1538262189188	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538262189204	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/watch.php?a=Dragon%20Ball%20Super&e=131
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+1538262190482	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483710
+1538262190484	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483705
+1538262193154	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/watch.php?a=Dragon%20Ball%20Super&e=131
+1538262193318	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/watch.php?a=Dragon%20Ball%20Super&e=131
+1538262219976	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/watch.php?a=Dragon%20Ball%20Super&e=131
+1538262219977	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/watch.php?a=Dragon%20Ball%20Super&e=131
+1538262219986	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1538262219987	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483697
+1538262219987	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483713
+1538262219988	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483700
+1538262219988	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1538262219989	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483715
+1538262219989	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1538262219989	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483695
+1538262219990	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483703
+1538262219991	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483707
+1538262219992	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 30554, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538262220734	Marionette	INFO	Stopped listening on port 43139
+1538262244849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hKBsEJmxIJIG"
+
+(firefox:30825): Gtk-WARNING **: 04:34:04.898: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:30825): Gtk-WARNING **: 04:34:04.898: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:30825): Gtk-WARNING **: 04:34:04.898: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30911): Gtk-WARNING **: 04:34:07.345: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30911): Gtk-WARNING **: 04:34:07.346: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30911): Gtk-WARNING **: 04:34:07.346: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538262248324	Marionette	INFO	Listening on port 45465
+1538262248366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538262248416	Marionette	DEBUG	[2147483649] Frame script loaded
+1538262248417	Marionette	DEBUG	[2147483649] Frame script registered
+1538262248456	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:30975): Gtk-WARNING **: 04:34:08.486: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30975): Gtk-WARNING **: 04:34:08.486: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:30975): Gtk-WARNING **: 04:34:08.486: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538262249216	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538262249710	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Naruta
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:30911): dconf-WARNING **: 04:34:11.419: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538262252737	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1538262252764	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Naruta
+[Parent 30825, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538262263276	Marionette	INFO	Stopped listening on port 45465
+1538262265427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.63hkhYJ3AnzG"
+
+(firefox:31048): Gtk-WARNING **: 04:34:25.473: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:31048): Gtk-WARNING **: 04:34:25.473: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:31048): Gtk-WARNING **: 04:34:25.474: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31134): Gtk-WARNING **: 04:34:28.010: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31134): Gtk-WARNING **: 04:34:28.010: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31134): Gtk-WARNING **: 04:34:28.011: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538262268936	Marionette	INFO	Listening on port 39455
+1538262268944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538262268999	Marionette	DEBUG	[2147483649] Frame script loaded
+1538262269010	Marionette	DEBUG	[2147483649] Frame script registered
+1538262269027	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:31206): Gtk-WARNING **: 04:34:29.124: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31206): Gtk-WARNING **: 04:34:29.124: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31206): Gtk-WARNING **: 04:34:29.124: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538262269605	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538262270150	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Naruta
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:31134): dconf-WARNING **: 04:34:32.939: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538262273225	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1538262274032	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Naruta
+[Child 31134, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31134, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 31048, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538262279677	Marionette	INFO	Stopped listening on port 39455
+1538262295450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6jboxabMTaL9"
+
+(firefox:31280): Gtk-WARNING **: 04:34:55.499: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:31280): Gtk-WARNING **: 04:34:55.499: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:31280): Gtk-WARNING **: 04:34:55.499: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31368): Gtk-WARNING **: 04:34:57.627: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31368): Gtk-WARNING **: 04:34:57.627: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31368): Gtk-WARNING **: 04:34:57.627: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31430): Gtk-WARNING **: 04:34:58.779: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31430): Gtk-WARNING **: 04:34:58.779: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31430): Gtk-WARNING **: 04:34:58.779: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538262298810	Marionette	INFO	Listening on port 37127
+1538262298876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538262298932	Marionette	DEBUG	[2147483649] Frame script loaded
+1538262298933	Marionette	DEBUG	[2147483649] Frame script registered
+1538262298966	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538262299691	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538262300161	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Naruto
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+1538262303436	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/i.php?a=Naruto
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1538262303464	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1538262303464	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1538262303465	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1538262303465	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538262303466	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538262303467	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1538262303467	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1538262303467	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 31368, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0096,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+1538262304186	Marionette	INFO	Stopped listening on port 37127
+1538262438081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZmLuPwsOjR9K"
+
+(firefox:31542): Gtk-WARNING **: 04:37:18.132: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:31542): Gtk-WARNING **: 04:37:18.132: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:31542): Gtk-WARNING **: 04:37:18.132: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31630): Gtk-WARNING **: 04:37:20.641: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31630): Gtk-WARNING **: 04:37:20.641: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31630): Gtk-WARNING **: 04:37:20.641: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538262441595	Marionette	INFO	Listening on port 44575
+1538262441611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538262441662	Marionette	DEBUG	[2147483649] Frame script loaded
+1538262441668	Marionette	DEBUG	[2147483649] Frame script registered
+1538262441680	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:31694): Gtk-WARNING **: 04:37:21.768: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31694): Gtk-WARNING **: 04:37:21.768: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:31694): Gtk-WARNING **: 04:37:21.768: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538262442330	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538262442804	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Naruto
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:31630): dconf-WARNING **: 04:37:26.059: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538262446407	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1538262447122	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Naruto
+1538262447478	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/i.php?a=Naruto
+1538262447842	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/i.php?a=Naruto
+1538262447843	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/i.php?a=Naruto
+1538262448235	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/watch.php?a=Naruto&e=220
+1538262448277	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1538262448277	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1538262448278	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1538262448278	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538262448278	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1538262448279	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538262448279	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1538262448279	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1538262448279	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1538262448280	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+1538262449840	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483706
+1538262449934	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483712
+1538262451447	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/watch.php?a=Naruto&e=220
+1538262451587	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/watch.php?a=Naruto&e=220
+1538262457722	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/watch.php?a=Naruto&e=220
+1538262457723	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/watch.php?a=Naruto&e=220
+1538262457733	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1538262457733	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483696
+1538262457734	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483715
+1538262457734	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483701
+1538262457735	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1538262457735	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483717
+1538262457735	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1538262457735	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483695
+1538262457736	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483704
+1538262457737	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483708
+1538262457738	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 31542, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538262458561	Marionette	INFO	Stopped listening on port 44575
