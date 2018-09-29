@@ -1,0 +1,237 @@
+1538251126091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wijyW3ELpF9a"
+
+(firefox:19579): Gtk-WARNING **: 01:28:46.141: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:19579): Gtk-WARNING **: 01:28:46.141: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:19579): Gtk-WARNING **: 01:28:46.142: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19659): Gtk-WARNING **: 01:28:48.525: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19659): Gtk-WARNING **: 01:28:48.525: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19659): Gtk-WARNING **: 01:28:48.525: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538251129560	Marionette	INFO	Listening on port 38547
+1538251129606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538251129660	Marionette	DEBUG	[2147483649] Frame script loaded
+1538251129661	Marionette	DEBUG	[2147483649] Frame script registered
+1538251129673	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:19727): Gtk-WARNING **: 01:28:49.805: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19727): Gtk-WARNING **: 01:28:49.805: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19727): Gtk-WARNING **: 01:28:49.805: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538251136716	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538251142530	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251145302	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538251147622	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251147948	Marionette	DEBUG	[2147483663] Frame script loaded
+1538251147958	Marionette	DEBUG	[2147483663] Frame script registered
+1538251147987	Marionette	DEBUG	[2147483666] Frame script loaded
+1538251147992	Marionette	DEBUG	[2147483666] Frame script registered
+1538251148003	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251153189	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538251214971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LwCB2K0bJpxK"
+
+(firefox:19847): Gtk-WARNING **: 01:30:15.022: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:19847): Gtk-WARNING **: 01:30:15.022: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:19847): Gtk-WARNING **: 01:30:15.022: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19931): Gtk-WARNING **: 01:30:17.313: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19931): Gtk-WARNING **: 01:30:17.313: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19931): Gtk-WARNING **: 01:30:17.313: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538251218353	Marionette	INFO	Listening on port 34403
+1538251218387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538251218441	Marionette	DEBUG	[2147483649] Frame script loaded
+1538251218466	Marionette	DEBUG	[2147483649] Frame script registered
+1538251218496	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:19993): Gtk-WARNING **: 01:30:18.501: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19993): Gtk-WARNING **: 01:30:18.501: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19993): Gtk-WARNING **: 01:30:18.501: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538251227449	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538251232424	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251235339	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538251241570	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251241875	Marionette	DEBUG	[2147483663] Frame script loaded
+1538251241895	Marionette	DEBUG	[2147483663] Frame script registered
+1538251241919	Marionette	DEBUG	[2147483666] Frame script loaded
+1538251241923	Marionette	DEBUG	[2147483666] Frame script registered
+1538251241931	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251247115	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538251259871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZDWTZ1kdc1Hz"
+
+(firefox:20094): Gtk-WARNING **: 01:30:59.943: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:20094): Gtk-WARNING **: 01:30:59.943: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:20094): Gtk-WARNING **: 01:30:59.943: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20178): Gtk-WARNING **: 01:31:02.437: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20178): Gtk-WARNING **: 01:31:02.437: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20178): Gtk-WARNING **: 01:31:02.437: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538251263492	Marionette	INFO	Listening on port 33305
+1538251263586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538251263652	Marionette	DEBUG	[2147483649] Frame script loaded
+1538251263668	Marionette	DEBUG	[2147483649] Frame script registered
+1538251263695	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:20244): Gtk-WARNING **: 01:31:03.707: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20244): Gtk-WARNING **: 01:31:03.707: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20244): Gtk-WARNING **: 01:31:03.707: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538251271408	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538251278790	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251287421	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538251295031	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251295320	Marionette	DEBUG	[2147483663] Frame script loaded
+1538251295328	Marionette	DEBUG	[2147483663] Frame script registered
+1538251295352	Marionette	DEBUG	[2147483666] Frame script loaded
+1538251295359	Marionette	DEBUG	[2147483666] Frame script registered
+1538251295369	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251300551	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538251454920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CaX4Ogd5dBa8"
+
+(firefox:20405): Gtk-WARNING **: 01:34:14.971: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:20405): Gtk-WARNING **: 01:34:14.971: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:20405): Gtk-WARNING **: 01:34:14.971: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20490): Gtk-WARNING **: 01:34:17.623: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20490): Gtk-WARNING **: 01:34:17.624: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20490): Gtk-WARNING **: 01:34:17.624: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20555): Gtk-WARNING **: 01:34:18.775: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20555): Gtk-WARNING **: 01:34:18.775: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20555): Gtk-WARNING **: 01:34:18.775: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538251458885	Marionette	INFO	Listening on port 34107
+1538251458936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538251458985	Marionette	DEBUG	[2147483649] Frame script loaded
+1538251458986	Marionette	DEBUG	[2147483649] Frame script registered
+1538251459008	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538251465214	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538251470535	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251473410	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538251479656	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251479964	Marionette	DEBUG	[2147483663] Frame script loaded
+1538251479975	Marionette	DEBUG	[2147483663] Frame script registered
+1538251479999	Marionette	DEBUG	[2147483666] Frame script loaded
+1538251480009	Marionette	DEBUG	[2147483666] Frame script registered
+1538251480021	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251485191	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538251557814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FHwrmn80lhIr"
+
+(firefox:20674): Gtk-WARNING **: 01:35:57.868: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:20674): Gtk-WARNING **: 01:35:57.868: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:20674): Gtk-WARNING **: 01:35:57.868: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20762): Gtk-WARNING **: 01:36:00.465: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20762): Gtk-WARNING **: 01:36:00.465: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20762): Gtk-WARNING **: 01:36:00.465: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20824): Gtk-WARNING **: 01:36:01.750: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20824): Gtk-WARNING **: 01:36:01.750: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20824): Gtk-WARNING **: 01:36:01.750: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538251561791	Marionette	INFO	Listening on port 42755
+1538251561828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538251561881	Marionette	DEBUG	[2147483649] Frame script loaded
+1538251561882	Marionette	DEBUG	[2147483649] Frame script registered
+1538251561896	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538251571432	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538251576418	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251579274	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538251583578	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251583831	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251589032	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538251622944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TJbAlW5lB907"
+
+(firefox:20913): Gtk-WARNING **: 01:37:03.002: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:20913): Gtk-WARNING **: 01:37:03.002: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:20913): Gtk-WARNING **: 01:37:03.002: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20999): Gtk-WARNING **: 01:37:05.516: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20999): Gtk-WARNING **: 01:37:05.516: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20999): Gtk-WARNING **: 01:37:05.516: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538251626529	Marionette	INFO	Listening on port 40413
+1538251626566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538251626620	Marionette	DEBUG	[2147483649] Frame script loaded
+1538251626633	Marionette	DEBUG	[2147483649] Frame script registered
+1538251626668	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:21066): Gtk-WARNING **: 01:37:06.676: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21066): Gtk-WARNING **: 01:37:06.676: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21066): Gtk-WARNING **: 01:37:06.676: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538251636172	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538251641686	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251644536	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538251650403	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251650719	Marionette	DEBUG	[2147483663] Frame script loaded
+1538251650720	Marionette	DEBUG	[2147483663] Frame script registered
+1538251650740	Marionette	DEBUG	[2147483666] Frame script loaded
+1538251650750	Marionette	DEBUG	[2147483666] Frame script registered
+1538251650758	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538251655958	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538252074470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T4npr9gXu76u"
+
+(firefox:22046): Gtk-WARNING **: 01:44:34.523: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:22046): Gtk-WARNING **: 01:44:34.523: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:22046): Gtk-WARNING **: 01:44:34.523: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22132): Gtk-WARNING **: 01:44:37.280: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22132): Gtk-WARNING **: 01:44:37.280: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22132): Gtk-WARNING **: 01:44:37.280: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538252078383	Marionette	INFO	Listening on port 37207
+1538252078390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538252078440	Marionette	DEBUG	[2147483649] Frame script loaded
+1538252078441	Marionette	DEBUG	[2147483649] Frame script registered
+1538252078463	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:22200): Gtk-WARNING **: 01:44:38.559: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22200): Gtk-WARNING **: 01:44:38.559: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22200): Gtk-WARNING **: 01:44:38.559: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538252087427	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538252093246	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+[Parent 22046, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1538252096962	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538252104557	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538252104885	Marionette	DEBUG	[2147483663] Frame script loaded
+1538252104902	Marionette	DEBUG	[2147483663] Frame script registered
+1538252104935	Marionette	DEBUG	[2147483666] Frame script loaded
+1538252104942	Marionette	DEBUG	[2147483666] Frame script registered
+1538252104952	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=s05KLrFhuM4&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538252110158	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 22046, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538252124869	Marionette	INFO	Stopped listening on port 37207
