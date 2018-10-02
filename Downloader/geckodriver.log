@@ -1,0 +1,1643 @@
+1538407088148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SUNWV4YlXuBQ"
+
+(firefox:14820): Gtk-WARNING **: 20:48:08.200: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:14820): Gtk-WARNING **: 20:48:08.200: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:14820): Gtk-WARNING **: 20:48:08.201: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:14911): Gtk-WARNING **: 20:48:10.156: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:14911): Gtk-WARNING **: 20:48:10.156: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:14911): Gtk-WARNING **: 20:48:10.156: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538407090972	Marionette	INFO	Listening on port 34151
+1538407091060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538407091120	Marionette	DEBUG	[2147483649] Frame script loaded
+1538407091121	Marionette	DEBUG	[2147483649] Frame script registered
+1538407091134	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:14978): Gtk-WARNING **: 20:48:11.157: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:14978): Gtk-WARNING **: 20:48:11.157: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:14978): Gtk-WARNING **: 20:48:11.157: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538407093116	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538407097822	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538407104897	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538407118620	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1538407118620	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538407119968	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 14820, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538407287908	Marionette	INFO	Stopped listening on port 34151
+1538407353455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Mw0EavYpfhh9"
+
+(firefox:15087): Gtk-WARNING **: 20:52:33.518: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:15087): Gtk-WARNING **: 20:52:33.518: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:15087): Gtk-WARNING **: 20:52:33.518: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15167): Gtk-WARNING **: 20:52:35.581: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15167): Gtk-WARNING **: 20:52:35.581: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15167): Gtk-WARNING **: 20:52:35.581: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538407356394	Marionette	INFO	Listening on port 43295
+1538407356476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538407356533	Marionette	DEBUG	[2147483649] Frame script loaded
+1538407356537	Marionette	DEBUG	[2147483649] Frame script registered
+
+(/usr/lib/firefox/firefox:15229): Gtk-WARNING **: 20:52:36.577: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15229): Gtk-WARNING **: 20:52:36.577: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15229): Gtk-WARNING **: 20:52:36.577: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538407392416	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538407393864	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538407398366	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538407425825	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538407429788	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1538407429789	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538407429984	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+1538408014175	Marionette	INFO	Stopped listening on port 43295
+1538409957904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6QSlTR1dqxWd"
+
+(firefox:16262): Gtk-WARNING **: 21:35:57.968: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:16262): Gtk-WARNING **: 21:35:57.968: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:16262): Gtk-WARNING **: 21:35:57.968: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16348): Gtk-WARNING **: 21:35:59.822: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16348): Gtk-WARNING **: 21:35:59.822: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16348): Gtk-WARNING **: 21:35:59.822: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538409960649	Marionette	INFO	Listening on port 42535
+1538409960716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538409960767	Marionette	DEBUG	[2147483649] Frame script loaded
+1538409960768	Marionette	DEBUG	[2147483649] Frame script registered
+1538409960779	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:16417): Gtk-WARNING **: 21:36:00.888: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16417): Gtk-WARNING **: 21:36:00.888: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16417): Gtk-WARNING **: 21:36:00.888: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538409962199	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538409964614	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538409968681	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538409974941	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1538409974942	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538409975121	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+[Parent 16262, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 16262, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538409996738	Marionette	INFO	Stopped listening on port 42535
+1538410065013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aLkPvhx6YkeM"
+
+(firefox:16492): Gtk-WARNING **: 21:37:45.073: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:16492): Gtk-WARNING **: 21:37:45.074: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:16492): Gtk-WARNING **: 21:37:45.074: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16579): Gtk-WARNING **: 21:37:47.244: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16579): Gtk-WARNING **: 21:37:47.244: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16579): Gtk-WARNING **: 21:37:47.244: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538410068119	Marionette	INFO	Listening on port 41717
+1538410068138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538410068196	Marionette	DEBUG	[2147483649] Frame script loaded
+1538410068199	Marionette	DEBUG	[2147483649] Frame script registered
+1538410068255	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:16645): Gtk-WARNING **: 21:37:48.277: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16645): Gtk-WARNING **: 21:37:48.277: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16645): Gtk-WARNING **: 21:37:48.277: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538410070224	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538410077796	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538410094969	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538410101004	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1538410101004	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538410102195	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:16579): dconf-WARNING **: 21:38:22.429: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 16579, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A0006,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16492, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538410151258	Marionette	INFO	Stopped listening on port 41717
+1538410175543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e0RXto4aoglh"
+
+(firefox:16728): Gtk-WARNING **: 21:39:35.593: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:16728): Gtk-WARNING **: 21:39:35.593: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:16728): Gtk-WARNING **: 21:39:35.593: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16817): Gtk-WARNING **: 21:39:37.879: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16817): Gtk-WARNING **: 21:39:37.879: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16817): Gtk-WARNING **: 21:39:37.879: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538410178775	Marionette	INFO	Listening on port 36483
+1538410178873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538410178938	Marionette	DEBUG	[2147483649] Frame script loaded
+1538410178942	Marionette	DEBUG	[2147483649] Frame script registered
+1538410178954	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:16889): Gtk-WARNING **: 21:39:38.962: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16889): Gtk-WARNING **: 21:39:38.962: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16889): Gtk-WARNING **: 21:39:38.962: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538410180449	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538410183186	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538410186889	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+1538410244376	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.facebook.com/
+1538410244408	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.facebook.com/
+1538410244414	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538410244415	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 16728, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538410244918	Marionette	INFO	Stopped listening on port 36483
+1538410380519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4Ul0cgBnoK6p"
+
+(firefox:16983): Gtk-WARNING **: 21:43:00.578: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:16983): Gtk-WARNING **: 21:43:00.578: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:16983): Gtk-WARNING **: 21:43:00.578: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17066): Gtk-WARNING **: 21:43:02.716: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17066): Gtk-WARNING **: 21:43:02.716: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17066): Gtk-WARNING **: 21:43:02.716: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538410383584	Marionette	INFO	Listening on port 44589
+1538410383638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538410383693	Marionette	DEBUG	[2147483649] Frame script loaded
+1538410383697	Marionette	DEBUG	[2147483649] Frame script registered
+1538410383708	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:17130): Gtk-WARNING **: 21:43:03.806: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17130): Gtk-WARNING **: 21:43:03.806: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17130): Gtk-WARNING **: 21:43:03.806: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538410385399	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538410386448	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538410389979	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538410394960	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1538410394963	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538410395047	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:17066): dconf-WARNING **: 21:43:15.266: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+1538412331154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ICBL2m4rqSUX"
+
+(firefox:18242): Gtk-WARNING **: 22:15:31.210: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:18242): Gtk-WARNING **: 22:15:31.210: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:18242): Gtk-WARNING **: 22:15:31.210: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18327): Gtk-WARNING **: 22:15:33.308: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18327): Gtk-WARNING **: 22:15:33.308: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18327): Gtk-WARNING **: 22:15:33.308: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538412334256	Marionette	INFO	Listening on port 37319
+1538412334276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538412334337	Marionette	DEBUG	[2147483649] Frame script loaded
+1538412334338	Marionette	DEBUG	[2147483649] Frame script registered
+
+(/usr/lib/firefox/firefox:18391): Gtk-WARNING **: 22:15:34.418: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18391): Gtk-WARNING **: 22:15:34.418: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18391): Gtk-WARNING **: 22:15:34.418: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538412354335	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538412356772	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538412358714	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538412366255	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538412380783	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1538412380783	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1538412381018	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:18327): dconf-WARNING **: 22:17:47.167: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538412859953	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.facebook.com/
+1538412861978	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.facebook.com/
+1538412862007	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.facebook.com/
+1538412864656	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1538412864656	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1538412865619	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/?stype=lo&jlou=Afc2PL8c-DysoDgsA9Cbrrls-9eEBs8WwNEnFR09sqeDn4PkHP5VujsyVgplpp4IL8b9WuaoPAFQHda0aWl5joTgqSoz7v8yBNmHOdiaImfSPA&smuh=4236&lh=Ac_aQxqX3PPU-uYt
+1538412868079	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483692
+1538412870221	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483697
+1538412870223	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483699
+1538412871067	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/?stype=lo&jlou=Afc2PL8c-DysoDgsA9Cbrrls-9eEBs8WwNEnFR09sqeDn4PkHP5VujsyVgplpp4IL8b9WuaoPAFQHda0aWl5joTgqSoz7v8yBNmHOdiaImfSPA&smuh=4236&lh=Ac_aQxqX3PPU-uYt
+1538413037250	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538413062445	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.facebook.com/
+1538413064546	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.facebook.com/
+1538413064549	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.facebook.com/
+1538413067968	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/?stype=lo&jlou=AfdSlZXvkT6SkLW9s90RVTlhZCq4queIcFqAkzNVluJXnZD2YjHsz7wXiWkExys6CLpF-E7I-bdyl7ASx-DNBrR8AmWPFPP1CFhd-SNjfx57Pg&smuh=4236&lh=Ac9R10AHRB-MVxXO
+1538413069088	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/?stype=lo&jlou=AfdSlZXvkT6SkLW9s90RVTlhZCq4queIcFqAkzNVluJXnZD2YjHsz7wXiWkExys6CLpF-E7I-bdyl7ASx-DNBrR8AmWPFPP1CFhd-SNjfx57Pg&smuh=4236&lh=Ac9R10AHRB-MVxXO
+[Parent 18242, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 18242, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538413076937	Marionette	INFO	Stopped listening on port 37319
+1538413863984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u0rmdWkP5I1V"
+
+(firefox:18640): Gtk-WARNING **: 22:41:04.048: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:18640): Gtk-WARNING **: 22:41:04.049: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:18640): Gtk-WARNING **: 22:41:04.049: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18726): Gtk-WARNING **: 22:41:06.025: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18726): Gtk-WARNING **: 22:41:06.025: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18726): Gtk-WARNING **: 22:41:06.025: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538413866842	Marionette	INFO	Listening on port 40489
+1538413866901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538413866953	Marionette	DEBUG	[2147483649] Frame script loaded
+1538413866977	Marionette	DEBUG	[2147483649] Frame script registered
+1538413867008	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:18792): Gtk-WARNING **: 22:41:07.024: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18792): Gtk-WARNING **: 22:41:07.025: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18792): Gtk-WARNING **: 22:41:07.025: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538413871670	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538413876430	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538413890604	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538413901175	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1538413901177	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538413901255	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:18726): dconf-WARNING **: 22:41:41.473: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538413926769	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+1538414050009	Marionette	INFO	Stopped listening on port 40489
+1538414168777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8Nbd8WDnnIK7"
+
+(firefox:18940): Gtk-WARNING **: 22:46:08.841: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:18940): Gtk-WARNING **: 22:46:08.841: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:18940): Gtk-WARNING **: 22:46:08.841: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19027): Gtk-WARNING **: 22:46:10.835: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19027): Gtk-WARNING **: 22:46:10.835: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19027): Gtk-WARNING **: 22:46:10.835: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538414171760	Marionette	INFO	Listening on port 33849
+1538414171793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538414171850	Marionette	DEBUG	[2147483649] Frame script loaded
+1538414171864	Marionette	DEBUG	[2147483649] Frame script registered
+1538414171876	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:19087): Gtk-WARNING **: 22:46:11.972: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19087): Gtk-WARNING **: 22:46:11.972: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19087): Gtk-WARNING **: 22:46:11.972: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538414174139	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538414176046	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538414183675	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538414200685	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538414200685	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1538414200985	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:19027): dconf-WARNING **: 22:46:41.212: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538414218072	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538414286519	Marionette	INFO	Stopped listening on port 33849
+1538414303399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.udvado8USoGN"
+
+(firefox:19192): Gtk-WARNING **: 22:48:23.456: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:19192): Gtk-WARNING **: 22:48:23.456: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:19192): Gtk-WARNING **: 22:48:23.456: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19280): Gtk-WARNING **: 22:48:25.618: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19280): Gtk-WARNING **: 22:48:25.618: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19280): Gtk-WARNING **: 22:48:25.618: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538414306417	Marionette	INFO	Listening on port 32929
+1538414306513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538414306587	Marionette	DEBUG	[2147483649] Frame script loaded
+1538414306589	Marionette	DEBUG	[2147483649] Frame script registered
+
+(/usr/lib/firefox/firefox:19343): Gtk-WARNING **: 22:48:26.599: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19343): Gtk-WARNING **: 22:48:26.600: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19343): Gtk-WARNING **: 22:48:26.600: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538414306606	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538414309321	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538414334721	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538414354780	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538414367154	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1538414367155	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538414367523	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:19280): dconf-WARNING **: 22:49:27.743: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538414385471	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1538414385666	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538414639844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Gl5yt8iCm8WH"
+
+(firefox:19548): Gtk-WARNING **: 22:53:59.897: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:19548): Gtk-WARNING **: 22:53:59.897: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:19548): Gtk-WARNING **: 22:53:59.897: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19637): Gtk-WARNING **: 22:54:02.078: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19637): Gtk-WARNING **: 22:54:02.078: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19637): Gtk-WARNING **: 22:54:02.078: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538414642924	Marionette	INFO	Listening on port 36103
+1538414642965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538414643029	Marionette	DEBUG	[2147483649] Frame script loaded
+1538414643049	Marionette	DEBUG	[2147483649] Frame script registered
+1538414643079	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:19699): Gtk-WARNING **: 22:54:03.090: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19699): Gtk-WARNING **: 22:54:03.090: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19699): Gtk-WARNING **: 22:54:03.090: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538414647231	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538414650325	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538414663289	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538414671695	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1538414671695	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1538414673910	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:19637): dconf-WARNING **: 22:54:34.136: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538414700080	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538414781121	Marionette	INFO	Stopped listening on port 36103
+1538414784227	Marionette	INFO	Stopped listening on port 32929
+1538414802758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XM2eL1wZDhfZ"
+
+(firefox:19815): Gtk-WARNING **: 22:56:42.829: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:19815): Gtk-WARNING **: 22:56:42.829: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:19815): Gtk-WARNING **: 22:56:42.829: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19902): Gtk-WARNING **: 22:56:45.029: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19902): Gtk-WARNING **: 22:56:45.029: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19902): Gtk-WARNING **: 22:56:45.029: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538414805885	Marionette	INFO	Listening on port 36765
+1538414805979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538414806035	Marionette	DEBUG	[2147483649] Frame script loaded
+1538414806040	Marionette	DEBUG	[2147483649] Frame script registered
+1538414806069	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:19962): Gtk-WARNING **: 22:56:46.084: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19962): Gtk-WARNING **: 22:56:46.084: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19962): Gtk-WARNING **: 22:56:46.084: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538414811448	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538414815240	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538414838198	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538414847881	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1538414847882	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1538414848076	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:19902): dconf-WARNING **: 22:57:28.306: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538414881961	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538414918035	Marionette	INFO	Stopped listening on port 36765
+1538415016234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3l8eaZcp44om"
+
+(firefox:20064): Gtk-WARNING **: 23:00:16.289: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:20064): Gtk-WARNING **: 23:00:16.289: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:20064): Gtk-WARNING **: 23:00:16.289: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20152): Gtk-WARNING **: 23:00:18.643: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20152): Gtk-WARNING **: 23:00:18.643: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20152): Gtk-WARNING **: 23:00:18.643: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538415019638	Marionette	INFO	Listening on port 36131
+1538415019656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538415019709	Marionette	DEBUG	[2147483649] Frame script loaded
+1538415019726	Marionette	DEBUG	[2147483649] Frame script registered
+1538415019764	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:20223): Gtk-WARNING **: 23:00:19.765: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20223): Gtk-WARNING **: 23:00:19.765: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20223): Gtk-WARNING **: 23:00:19.765: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538415022762	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538415031474	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538415058797	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538415089340	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1538415089340	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538415089430	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:20152): dconf-WARNING **: 23:01:29.660: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538415156174	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538415186119	Marionette	DEBUG	[2147483682] Frame script loaded
+1538415186130	Marionette	DEBUG	[2147483682] Frame script registered
+1538415186187	Marionette	DEBUG	[4294967297] Frame script loaded
+1538415186189	Marionette	DEBUG	[4294967297] Frame script registered
+
+(/usr/lib/firefox/firefox:20320): Gtk-WARNING **: 23:03:07.298: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20320): Gtk-WARNING **: 23:03:07.298: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20320): Gtk-WARNING **: 23:03:07.298: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+[Parent 20064, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 20064, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538415195295	Marionette	INFO	Stopped listening on port 36131
+1538416897451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gTl4PF9jzoOy"
+
+(firefox:20662): Gtk-WARNING **: 23:31:37.504: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:20662): Gtk-WARNING **: 23:31:37.504: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:20662): Gtk-WARNING **: 23:31:37.504: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20748): Gtk-WARNING **: 23:31:40.059: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20748): Gtk-WARNING **: 23:31:40.059: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20748): Gtk-WARNING **: 23:31:40.059: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538416901009	Marionette	INFO	Listening on port 35705
+1538416901068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538416901129	Marionette	DEBUG	[2147483649] Frame script loaded
+1538416901136	Marionette	DEBUG	[2147483649] Frame script registered
+1538416901162	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:20814): Gtk-WARNING **: 23:31:41.168: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20814): Gtk-WARNING **: 23:31:41.168: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20814): Gtk-WARNING **: 23:31:41.168: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538416901185	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538416901241	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538416901434	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//www.facebook.com/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.facebook.com.
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+1538417312785	Marionette	INFO	Stopped listening on port 44589
+[Parent 20662, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538417314981	Marionette	INFO	Stopped listening on port 35705
+1538417501277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GHjbzmYz35b2"
+
+(firefox:21181): Gtk-WARNING **: 23:41:41.364: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:21181): Gtk-WARNING **: 23:41:41.364: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:21181): Gtk-WARNING **: 23:41:41.364: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21270): Gtk-WARNING **: 23:41:43.737: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21270): Gtk-WARNING **: 23:41:43.737: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21270): Gtk-WARNING **: 23:41:43.737: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538417504707	Marionette	INFO	Listening on port 40113
+1538417504790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538417504866	Marionette	DEBUG	[2147483649] Frame script loaded
+1538417504872	Marionette	DEBUG	[2147483649] Frame script registered
+1538417504891	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:21337): Gtk-WARNING **: 23:41:44.901: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21337): Gtk-WARNING **: 23:41:44.901: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21337): Gtk-WARNING **: 23:41:44.901: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538417509399	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538417562508	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538417580796	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538417590721	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1538417590721	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1538417590937	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:21270): dconf-WARNING **: 23:43:11.175: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538417629009	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Child 21270, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 21270, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 21270, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 21270, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 21270, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 21270, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 21270, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 21270, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 21270, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538417746315	Marionette	INFO	Stopped listening on port 40113
+1538418915806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ftxoYJY9yFux"
+
+(firefox:2768): Gtk-WARNING **: 00:05:16.793: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:2768): Gtk-WARNING **: 00:05:16.793: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:2768): Gtk-WARNING **: 00:05:16.793: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:2880): Gtk-WARNING **: 00:05:24.446: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:2880): Gtk-WARNING **: 00:05:24.446: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:2880): Gtk-WARNING **: 00:05:24.446: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:2946): Gtk-WARNING **: 00:05:26.378: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:2946): Gtk-WARNING **: 00:05:26.378: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:2946): Gtk-WARNING **: 00:05:26.378: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538418926659	Marionette	INFO	Listening on port 43519
+1538418926718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538418926769	Marionette	DEBUG	[2147483649] Frame script loaded
+1538418926842	Marionette	DEBUG	[2147483649] Frame script registered
+1538418926870	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538418933330	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538418949160	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538418969294	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:2880): dconf-WARNING **: 00:06:10.339: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538419043114	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538419045715	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.facebook.com/
+1538419048630	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.facebook.com/
+1538419048650	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.facebook.com/
+1538419048901	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1538419048901	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1538419048985	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/?stype=lo&jlou=Afe14UGsmYsF3dFt_mmT5T8MZ31kxmXI6RXRnyniviztjP36K022f2eS09IAdrllQwCcK13Oojbwnd82z9G3Ac9BKG2o5ABLU1uM82V6uvw0OQ&smuh=4236&lh=Ac-ppRMGR86-tgPW
+1538419051647	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1538419054529	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483688
+1538419054529	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1538419055222	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/?stype=lo&jlou=Afe14UGsmYsF3dFt_mmT5T8MZ31kxmXI6RXRnyniviztjP36K022f2eS09IAdrllQwCcK13Oojbwnd82z9G3Ac9BKG2o5ABLU1uM82V6uvw0OQ&smuh=4236&lh=Ac-ppRMGR86-tgPW
+[Parent 2768, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538420850269	Marionette	INFO	Stopped listening on port 43519
+1538450583525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5OvjaTtEKWKQ"
+
+(firefox:5243): Gtk-WARNING **: 08:53:03.579: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:5243): Gtk-WARNING **: 08:53:03.579: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:5243): Gtk-WARNING **: 08:53:03.579: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:5324): Gtk-WARNING **: 08:53:05.829: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:5324): Gtk-WARNING **: 08:53:05.829: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:5324): Gtk-WARNING **: 08:53:05.829: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538450586727	Marionette	INFO	Listening on port 43229
+1538450586750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538450586812	Marionette	DEBUG	[2147483649] Frame script loaded
+1538450586819	Marionette	DEBUG	[2147483649] Frame script registered
+1538450586877	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:5389): Gtk-WARNING **: 08:53:06.900: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:5389): Gtk-WARNING **: 08:53:06.900: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:5389): Gtk-WARNING **: 08:53:06.900: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538450588689	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538450590114	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538450592311	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538450595583	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1538450595586	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538450595670	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:5324): dconf-WARNING **: 08:53:15.889: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538450628912	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538450658036	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.facebook.com/
+1538450660264	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.facebook.com/
+1538450660282	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.facebook.com/
+1538450660622	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/?stype=lo&jlou=AffGyc9O8CcmWOmcbajSTuKwRNq9VpfxC9_Gfmb5TULAIsllFBLiQze2wDu2MrwjprRsQVFGPpWbeco9VFDpAgyNVRnwhb60qgLer49LplOtBg&smuh=4236&lh=Ac-p5N_23Km_BJGO
+1538450660633	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1538450660633	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483670
+1538450660633	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1538450661252	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/?stype=lo&jlou=AffGyc9O8CcmWOmcbajSTuKwRNq9VpfxC9_Gfmb5TULAIsllFBLiQze2wDu2MrwjprRsQVFGPpWbeco9VFDpAgyNVRnwhb60qgLer49LplOtBg&smuh=4236&lh=Ac-p5N_23Km_BJGO
+1538452175674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IRX8K5p5gjLU"
+
+(firefox:5744): Gtk-WARNING **: 09:19:35.731: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:5744): Gtk-WARNING **: 09:19:35.731: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:5744): Gtk-WARNING **: 09:19:35.731: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:5829): Gtk-WARNING **: 09:19:38.054: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:5829): Gtk-WARNING **: 09:19:38.054: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:5829): Gtk-WARNING **: 09:19:38.054: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538452179007	Marionette	INFO	Listening on port 46705
+1538452179097	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5893): Gtk-WARNING **: 09:19:39.133: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:5893): Gtk-WARNING **: 09:19:39.133: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:5893): Gtk-WARNING **: 09:19:39.133: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538452179167	Marionette	DEBUG	[2147483649] Frame script loaded
+1538452179168	Marionette	DEBUG	[2147483649] Frame script registered
+1538452179183	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538452183008	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538452187112	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.youtube.com/
+1538452189080	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.youtube.com/
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.youtube.com
+[Parent 5744, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538452261216	Marionette	INFO	Stopped listening on port 46705
+[Parent 5243, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 5243, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538455457446	Marionette	INFO	Stopped listening on port 43229
+1538467479789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cW75hbtTUh54"
+
+(firefox:10117): Gtk-WARNING **: 13:34:39.852: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:10117): Gtk-WARNING **: 13:34:39.853: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:10117): Gtk-WARNING **: 13:34:39.853: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10206): Gtk-WARNING **: 13:34:42.017: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10206): Gtk-WARNING **: 13:34:42.017: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10206): Gtk-WARNING **: 13:34:42.017: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538467482984	Marionette	INFO	Listening on port 32953
+1538467483025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538467483077	Marionette	DEBUG	[2147483649] Frame script loaded
+1538467483084	Marionette	DEBUG	[2147483649] Frame script registered
+1538467483096	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:10269): Gtk-WARNING **: 13:34:43.198: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10269): Gtk-WARNING **: 13:34:43.198: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10269): Gtk-WARNING **: 13:34:43.198: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538467487174	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538467488590	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.youtube.com/results?search_query=kaala+chasma
+1538467491926	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.youtube.com/results?search_query=kaala+chasma
+1538467492107	Marionette	DEBUG	[2147483659] Frame script loaded
+1538467492117	Marionette	DEBUG	[2147483659] Frame script registered
+1538467492178	Marionette	DEBUG	[4294967297] Frame script loaded
+1538467492179	Marionette	DEBUG	[4294967297] Frame script registered
+
+(/usr/lib/firefox/firefox:10338): Gtk-WARNING **: 13:34:53.215: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10338): Gtk-WARNING **: 13:34:53.215: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10338): Gtk-WARNING **: 13:34:53.215: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538467513403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0a3iqoMS0wE9"
+
+(firefox:10422): Gtk-WARNING **: 13:35:13.458: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:10422): Gtk-WARNING **: 13:35:13.458: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:10422): Gtk-WARNING **: 13:35:13.458: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10508): Gtk-WARNING **: 13:35:15.994: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10508): Gtk-WARNING **: 13:35:15.994: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10508): Gtk-WARNING **: 13:35:15.994: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10576): Gtk-WARNING **: 13:35:17.307: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10576): Gtk-WARNING **: 13:35:17.307: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10576): Gtk-WARNING **: 13:35:17.307: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538467517335	Marionette	INFO	Listening on port 43011
+1538467517420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538467517495	Marionette	DEBUG	[2147483649] Frame script loaded
+1538467517497	Marionette	DEBUG	[2147483649] Frame script registered
+1538467517516	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538467525560	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538467531541	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=k4yXQkG2s1E&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xE0008,name=PBackgroundIDBTransaction::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBTransaction::Msg_DeleteMe Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://tharbadir.com/2?z=1765397&_=1538467531403, line 1: SyntaxError: expected expression, got '<'
+1538467535505	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538467539064	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=k4yXQkG2s1E&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538467539398	Marionette	DEBUG	[2147483663] Frame script loaded
+1538467539416	Marionette	DEBUG	[2147483663] Frame script registered
+1538467539442	Marionette	DEBUG	[2147483666] Frame script loaded
+1538467539444	Marionette	DEBUG	[2147483666] Frame script registered
+1538467539455	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=k4yXQkG2s1E&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538467544660	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[Parent 10117, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538467572098	Marionette	INFO	Stopped listening on port 32953
+[Parent 10422, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538467582108	Marionette	INFO	Stopped listening on port 43011
+1538475521244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5pmz9yjZnlij"
+
+(firefox:15890): Gtk-WARNING **: 15:48:41.301: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:15890): Gtk-WARNING **: 15:48:41.301: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:15890): Gtk-WARNING **: 15:48:41.301: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15973): Gtk-WARNING **: 15:48:43.525: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15973): Gtk-WARNING **: 15:48:43.525: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15973): Gtk-WARNING **: 15:48:43.525: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538475524355	Marionette	INFO	Listening on port 44393
+1538475524364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538475524428	Marionette	DEBUG	[2147483649] Frame script loaded
+1538475524429	Marionette	DEBUG	[2147483649] Frame script registered
+1538475524455	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:16038): Gtk-WARNING **: 15:48:44.516: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16038): Gtk-WARNING **: 15:48:44.516: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16038): Gtk-WARNING **: 15:48:44.516: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538475529315	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538475536838	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.youtube.com/results?search_query=brother+kodaline
+1538475539019	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.youtube.com/results?search_query=brother+kodaline
+1538475539272	Marionette	DEBUG	[2147483659] Frame script loaded
+1538475539273	Marionette	DEBUG	[2147483659] Frame script registered
+1538475539304	Marionette	DEBUG	[4294967297] Frame script loaded
+1538475539317	Marionette	DEBUG	[4294967297] Frame script registered
+
+(/usr/lib/firefox/firefox:16098): Gtk-WARNING **: 15:49:00.361: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16098): Gtk-WARNING **: 15:49:00.361: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16098): Gtk-WARNING **: 15:49:00.361: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538475565269	Marionette	INFO	Stopped listening on port 44393
+1538475581175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bXc03GH52I1m"
+
+(firefox:16170): Gtk-WARNING **: 15:49:41.255: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:16170): Gtk-WARNING **: 15:49:41.255: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:16170): Gtk-WARNING **: 15:49:41.255: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16256): Gtk-WARNING **: 15:49:43.535: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16256): Gtk-WARNING **: 15:49:43.535: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16256): Gtk-WARNING **: 15:49:43.535: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538475584435	Marionette	INFO	Listening on port 45807
+1538475584496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538475584562	Marionette	DEBUG	[2147483649] Frame script loaded
+1538475584568	Marionette	DEBUG	[2147483649] Frame script registered
+1538475584585	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:16325): Gtk-WARNING **: 15:49:44.593: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16325): Gtk-WARNING **: 15:49:44.593: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16325): Gtk-WARNING **: 15:49:44.593: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538475591731	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538475594603	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=m6TXPNybrmk&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538475598430	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538475603042	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=m6TXPNybrmk&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538475603302	Marionette	DEBUG	[2147483663] Frame script loaded
+1538475603315	Marionette	DEBUG	[2147483663] Frame script registered
+1538475603347	Marionette	DEBUG	[2147483666] Frame script loaded
+1538475603356	Marionette	DEBUG	[2147483666] Frame script registered
+1538475603363	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=m6TXPNybrmk&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538475608564	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538475630307	Marionette	INFO	Stopped listening on port 45807
+1538476605700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cOwVHhDbu2KG"
+
+(firefox:16986): Gtk-WARNING **: 16:06:45.761: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:16986): Gtk-WARNING **: 16:06:45.761: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:16986): Gtk-WARNING **: 16:06:45.761: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17071): Gtk-WARNING **: 16:06:47.972: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17071): Gtk-WARNING **: 16:06:47.972: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17071): Gtk-WARNING **: 16:06:47.972: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538476608877	Marionette	INFO	Listening on port 33437
+1538476608921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538476608973	Marionette	DEBUG	[2147483649] Frame script loaded
+1538476608980	Marionette	DEBUG	[2147483649] Frame script registered
+1538476608991	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:17137): Gtk-WARNING **: 16:06:49.085: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17137): Gtk-WARNING **: 16:06:49.085: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17137): Gtk-WARNING **: 16:06:49.085: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538476612576	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538476614745	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.youtube.com/results?search_query=%243000+speaker+unbox+therapy
+1538476619706	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.youtube.com/results?search_query=%243000+speaker+unbox+therapy
+1538476619855	Marionette	DEBUG	[2147483659] Frame script loaded
+1538476619859	Marionette	DEBUG	[2147483659] Frame script registered
+1538476619935	Marionette	DEBUG	[4294967297] Frame script loaded
+1538476619936	Marionette	DEBUG	[4294967297] Frame script registered
+
+(/usr/lib/firefox/firefox:17201): Gtk-WARNING **: 16:07:00.929: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17201): Gtk-WARNING **: 16:07:00.929: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17201): Gtk-WARNING **: 16:07:00.929: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538476742002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gtdM0Au87e46"
+
+(firefox:17438): Gtk-WARNING **: 16:09:02.066: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:17438): Gtk-WARNING **: 16:09:02.066: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:17438): Gtk-WARNING **: 16:09:02.066: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17522): Gtk-WARNING **: 16:09:03.912: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17522): Gtk-WARNING **: 16:09:03.912: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17522): Gtk-WARNING **: 16:09:03.912: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538476744966	Marionette	INFO	Listening on port 37273
+1538476745030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538476745085	Marionette	DEBUG	[2147483649] Frame script loaded
+1538476745093	Marionette	DEBUG	[2147483649] Frame script registered
+1538476745127	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:17585): Gtk-WARNING **: 16:09:05.130: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17585): Gtk-WARNING **: 16:09:05.130: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17585): Gtk-WARNING **: 16:09:05.130: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538476748518	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538476752130	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.youtube.com/results?search_query=%243000+speaker
+1538476754432	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.youtube.com/results?search_query=%243000+speaker
+1538476754617	Marionette	DEBUG	[2147483659] Frame script loaded
+1538476754624	Marionette	DEBUG	[2147483659] Frame script registered
+1538476754666	Marionette	DEBUG	[4294967297] Frame script loaded
+1538476754667	Marionette	DEBUG	[4294967297] Frame script registered
+
+(/usr/lib/firefox/firefox:17654): Gtk-WARNING **: 16:09:15.688: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17654): Gtk-WARNING **: 16:09:15.688: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17654): Gtk-WARNING **: 16:09:15.688: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+[Parent 17438, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 17438, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538476827488	Marionette	INFO	Stopped listening on port 37273
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16986, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538476832893	Marionette	INFO	Stopped listening on port 33437
+1538501992429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eCi4nGyny9jL"
+
+(firefox:22259): Gtk-WARNING **: 23:09:52.516: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:22259): Gtk-WARNING **: 23:09:52.516: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:22259): Gtk-WARNING **: 23:09:52.516: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22346): Gtk-WARNING **: 23:09:54.660: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22346): Gtk-WARNING **: 23:09:54.660: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22346): Gtk-WARNING **: 23:09:54.660: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538501995553	Marionette	INFO	Listening on port 42427
+1538501995697	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22410): Gtk-WARNING **: 23:09:55.716: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22410): Gtk-WARNING **: 23:09:55.716: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22410): Gtk-WARNING **: 23:09:55.716: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538501995761	Marionette	DEBUG	[2147483649] Frame script loaded
+1538501995764	Marionette	DEBUG	[2147483649] Frame script registered
+1538501995777	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538502002169	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538502013396	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1538502035663	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538502047332	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1538502047334	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1538502047420	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/
+
+(/usr/lib/firefox/firefox:22346): dconf-WARNING **: 23:10:47.618: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: "TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+1538502232288	Marionette	DEBUG	[2147483689] Frame script loaded
+1538502232305	Marionette	DEBUG	[2147483689] Frame script registered
+1538502232356	Marionette	DEBUG	[4294967297] Frame script loaded
+1538502232356	Marionette	DEBUG	[4294967297] Frame script registered
+
+(/usr/lib/firefox/firefox:22570): Gtk-WARNING **: 23:13:53.413: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22570): Gtk-WARNING **: 23:13:53.413: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22570): Gtk-WARNING **: 23:13:53.413: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+JavaScript error: chrome://browser/content/contentSearchUI.js, line 754: Error: Element is not a row
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538502284092	Marionette	DEBUG	[6442450945] Frame script loaded
+1538502284093	Marionette	DEBUG	[6442450945] Frame script registered
+
+(/usr/lib/firefox/firefox:22635): Gtk-WARNING **: 23:14:45.199: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22635): Gtk-WARNING **: 23:14:45.199: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22635): Gtk-WARNING **: 23:14:45.199: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it0k4/yH/l/en_US/IAQldvO8-c7.js, line 145: unreachable code after return statement
+1538502709529	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538502817026	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.facebook.com/
+1538502822673	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1708: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1708: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/targets/browsing-context.js, line 1708: TypeError: can't access dead object
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+1538502867696	Marionette	INFO	Stopped listening on port 42427
+1538503954928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.38AFLeGMaijy"
+
+(firefox:23038): Gtk-WARNING **: 23:42:35.057: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:23038): Gtk-WARNING **: 23:42:35.057: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:23038): Gtk-WARNING **: 23:42:35.057: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23127): Gtk-WARNING **: 23:42:37.370: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23127): Gtk-WARNING **: 23:42:37.370: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23127): Gtk-WARNING **: 23:42:37.371: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538503958404	Marionette	INFO	Listening on port 34941
+1538503958449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538503958527	Marionette	DEBUG	[2147483649] Frame script loaded
+1538503958534	Marionette	DEBUG	[2147483649] Frame script registered
+1538503958557	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:23189): Gtk-WARNING **: 23:42:38.567: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23189): Gtk-WARNING **: 23:42:38.567: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23189): Gtk-WARNING **: 23:42:38.567: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538503959594	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538503969675	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=the%20kings%20avatar
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:23127): dconf-WARNING **: 23:42:58.308: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538503979847	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1538503989341	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=the%20kings%20avatar
+1538504035966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2HlkLNOgpdPH"
+
+(firefox:23270): Gtk-WARNING **: 23:43:56.089: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:23270): Gtk-WARNING **: 23:43:56.089: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:23270): Gtk-WARNING **: 23:43:56.089: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23352): Gtk-WARNING **: 23:43:58.314: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23352): Gtk-WARNING **: 23:43:58.314: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23352): Gtk-WARNING **: 23:43:58.314: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504039117	Marionette	INFO	Listening on port 34379
+1538504039187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538504039258	Marionette	DEBUG	[2147483649] Frame script loaded
+1538504039275	Marionette	DEBUG	[2147483649] Frame script registered
+1538504039305	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:23417): Gtk-WARNING **: 23:43:59.336: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23417): Gtk-WARNING **: 23:43:59.336: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23417): Gtk-WARNING **: 23:43:59.336: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504040011	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538504041171	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Black%20Clover
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:23352): dconf-WARNING **: 23:44:13.308: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538504053571	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483673
+1538504065020	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Black%20Clover
+1538504065089	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538504065759	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/i.php?a=Black%20Clover
+1538504065761	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/i.php?a=Black%20Clover
+1538504066443	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1538504066444	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1538504066445	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1538504066446	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538504066447	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483678
+1538504066448	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538504066449	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1538504066450	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1538504066451	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1538504066517	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/watch.php?a=Black%20Clover&e=52
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+1538504068630	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483701
+1538504068757	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483707
+1538504078091	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/watch.php?a=Black%20Clover&e=52
+1538504078262	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=52
+1538504092391	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://animeheaven.eu/watch.php?a=Black%20Clover&e=52
+1538504092392	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/watch.php?a=Black%20Clover&e=52
+1538504092406	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1538504092407	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483691
+1538504092408	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483709
+1538504092408	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483696
+1538504092409	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1538504092409	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483711
+1538504092410	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+1538504092410	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1538504092411	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483699
+1538504092412	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483704
+1538504092413	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1090:3
+
+1538504092477	Marionette	DEBUG	[4294967297] Frame script loaded
+1538504092478	Marionette	DEBUG	[4294967297] Frame script registered
+1538504092511	Marionette	DEBUG	[4294967299] Frame script loaded
+1538504092512	Marionette	DEBUG	[4294967299] Frame script registered
+
+(/usr/lib/firefox/firefox:23549): Gtk-WARNING **: 23:44:53.587: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23549): Gtk-WARNING **: 23:44:53.587: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23549): Gtk-WARNING **: 23:44:53.587: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504109985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X4zxvyXxA52V"
+
+(firefox:23644): Gtk-WARNING **: 23:45:10.055: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:23644): Gtk-WARNING **: 23:45:10.055: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:23644): Gtk-WARNING **: 23:45:10.055: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23732): Gtk-WARNING **: 23:45:12.509: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23732): Gtk-WARNING **: 23:45:12.509: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23732): Gtk-WARNING **: 23:45:12.509: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504113554	Marionette	INFO	Listening on port 46873
+1538504113600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538504113671	Marionette	DEBUG	[2147483649] Frame script loaded
+1538504113674	Marionette	DEBUG	[2147483649] Frame script registered
+1538504113687	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:23798): Gtk-WARNING **: 23:45:13.792: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23798): Gtk-WARNING **: 23:45:13.792: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23798): Gtk-WARNING **: 23:45:13.792: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504114265	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538504114806	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Attack%20on%20titan%203
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:23732): dconf-WARNING **: 23:45:19.426: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538504121357	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1538504124448	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://animeheaven.eu/i.php?a=Attack%20on%20titan%203
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+[Parent 23644, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538504142213	Marionette	INFO	Stopped listening on port 46873
+1538504168870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sMZFh3G7eCdY"
+
+(firefox:23896): Gtk-WARNING **: 23:46:08.969: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:23896): Gtk-WARNING **: 23:46:08.969: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:23896): Gtk-WARNING **: 23:46:08.969: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23991): Gtk-WARNING **: 23:46:11.418: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23991): Gtk-WARNING **: 23:46:11.418: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:23991): Gtk-WARNING **: 23:46:11.418: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504172454	Marionette	INFO	Listening on port 33199
+1538504172492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538504172562	Marionette	DEBUG	[2147483649] Frame script loaded
+1538504172566	Marionette	DEBUG	[2147483649] Frame script registered
+1538504172587	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:24052): Gtk-WARNING **: 23:46:12.663: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24052): Gtk-WARNING **: 23:46:12.663: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24052): Gtk-WARNING **: 23:46:12.663: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504173199	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538504174275	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://animeheaven.eu/i.php?a=Shinjeki%20Nyo%20Kyojin
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+JavaScript warning: http://c1.popads.net/pop.js, line 2: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:23991): dconf-WARNING **: 23:46:20.138: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1538504180555	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1538504180684	Marionette	DEBUG	[2147483649] Received DOM event unload for http://animeheaven.eu/i.php?a=Shinjeki%20Nyo%20Kyojin
+1538504180691	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1538504180692	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538504180692	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483658
+1538504180693	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 23896, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23270, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538504181578	Marionette	INFO	Stopped listening on port 33199
+1538504182022	Marionette	INFO	Stopped listening on port 34379
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 23038, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538504182609	Marionette	INFO	Stopped listening on port 34941
+1538504213714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UK038bGchBRS"
+
+(firefox:24137): Gtk-WARNING **: 23:46:53.792: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:24137): Gtk-WARNING **: 23:46:53.792: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:24137): Gtk-WARNING **: 23:46:53.792: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24218): Gtk-WARNING **: 23:46:56.248: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24218): Gtk-WARNING **: 23:46:56.248: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24218): Gtk-WARNING **: 23:46:56.248: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504217204	Marionette	INFO	Listening on port 36785
+1538504217232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538504217297	Marionette	DEBUG	[2147483649] Frame script loaded
+1538504217305	Marionette	DEBUG	[2147483649] Frame script registered
+1538504217327	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+
+(/usr/lib/firefox/firefox:24284): Gtk-WARNING **: 23:46:57.430: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24284): Gtk-WARNING **: 23:46:57.430: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24284): Gtk-WARNING **: 23:46:57.430: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504220916	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538504241895	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.youtube.com/results?search_query=Saajna
+1538504251638	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.youtube.com/results?search_query=Saajna
+1538504251938	Marionette	DEBUG	[2147483657] Frame script loaded
+1538504251940	Marionette	DEBUG	[2147483657] Frame script registered
+1538504252019	Marionette	DEBUG	[4294967297] Frame script loaded
+1538504252020	Marionette	DEBUG	[4294967297] Frame script registered
+
+(/usr/lib/firefox/firefox:24347): Gtk-WARNING **: 23:47:33.041: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24347): Gtk-WARNING **: 23:47:33.041: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24347): Gtk-WARNING **: 23:47:33.041: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24137, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 24137, Gecko_IOThread] WARNING: pipe error (119): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 24137, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538504598204	Marionette	INFO	Stopped listening on port 36785
+1538504774043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dZEHTLMwO7aR"
+
+(firefox:24500): Gtk-WARNING **: 23:56:14.096: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:24500): Gtk-WARNING **: 23:56:14.096: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:24500): Gtk-WARNING **: 23:56:14.096: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24589): Gtk-WARNING **: 23:56:16.472: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24589): Gtk-WARNING **: 23:56:16.472: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24589): Gtk-WARNING **: 23:56:16.472: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24653): Gtk-WARNING **: 23:56:17.660: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24653): Gtk-WARNING **: 23:56:17.660: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24653): Gtk-WARNING **: 23:56:17.660: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504777680	Marionette	INFO	Listening on port 38357
+1538504777768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538504777818	Marionette	DEBUG	[2147483649] Frame script loaded
+1538504777826	Marionette	DEBUG	[2147483649] Frame script registered
+1538504777837	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538504781539	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538504800737	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.youtube.com/results?search_query=Saajna
+1538504824062	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.youtube.com/results?search_query=Saajna
+1538504824271	Marionette	DEBUG	[2147483657] Frame script loaded
+1538504824280	Marionette	DEBUG	[2147483657] Frame script registered
+1538504824334	Marionette	DEBUG	[4294967297] Frame script loaded
+1538504824336	Marionette	DEBUG	[4294967297] Frame script registered
+
+(/usr/lib/firefox/firefox:24746): Gtk-WARNING **: 23:57:05.386: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24746): Gtk-WARNING **: 23:57:05.386: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24746): Gtk-WARNING **: 23:57:05.386: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 24500, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1538504877426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6x20dEplZABw"
+
+(firefox:24813): Gtk-WARNING **: 23:57:57.531: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(firefox:24813): Gtk-WARNING **: 23:57:57.531: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(firefox:24813): Gtk-WARNING **: 23:57:57.531: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24902): Gtk-WARNING **: 23:58:00.215: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24902): Gtk-WARNING **: 23:58:00.215: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24902): Gtk-WARNING **: 23:58:00.215: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504881159	Marionette	INFO	Listening on port 35201
+1538504881275	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24969): Gtk-WARNING **: 23:58:01.302: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24969): Gtk-WARNING **: 23:58:01.302: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:24969): Gtk-WARNING **: 23:58:01.302: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+1538504881354	Marionette	DEBUG	[2147483649] Frame script loaded
+1538504881359	Marionette	DEBUG	[2147483649] Frame script registered
+1538504881374	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+JavaScript error: https://www.youtube.com/yts/jsbin/spf-vflhSOzLf/spf.js, line 17: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24500, Gecko_IOThread] WARNING: pipe error (123): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538504912160	Marionette	INFO	Stopped listening on port 38357
+1538504919667	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538504927508	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://en.savefrom.net/#url=http://youtube.com/watch?v=SmFPeepvPCs&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538504932883	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538504952813	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://en.savefrom.net/#url=http://youtube.com/watch?v=SmFPeepvPCs&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538504953175	Marionette	DEBUG	[2147483663] Frame script loaded
+1538504953183	Marionette	DEBUG	[2147483663] Frame script registered
+1538504953216	Marionette	DEBUG	[2147483666] Frame script loaded
+1538504953217	Marionette	DEBUG	[2147483666] Frame script registered
+1538504953226	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://en.savefrom.net/#url=http://youtube.com/watch?v=SmFPeepvPCs&utm_source=youtube.com&utm_medium=short_domains&utm_campaign=www.ssyoutube.com
+1538504958434	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+[000055e4e4716570] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+
+(vlc:25267): Gtk-WARNING **: 00:06:12.998: Theme parsing error: gtk.css:6778:29: Missing opening bracket in color definition
+
+(vlc:25267): Gtk-WARNING **: 00:06:12.998: Theme parsing error: gtk.css:6780:34: Missing opening bracket in color definition
+
+(vlc:25267): Gtk-WARNING **: 00:06:12.998: Theme parsing error: gtk.css:6786:28: Missing opening bracket in color definition
+[00007f1a2c002ca0] egl_x11 gl error: cannot select OpenGL API
+GPU at BusId 0x6 doesn't have a supported video decoder
+QObject::~QObject: Timers cannot be stopped from another thread
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24813, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538505405358	Marionette	INFO	Stopped listening on port 35201
