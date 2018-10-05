@@ -34,34 +34,35 @@ def uDown(ulink):
 
 		if len(elems)!=0:
 			webbrowser.open(elems[0].get('href'))
-
-		if len(elems)==0:
-			print("The 720p downloadable file is missing from the Gen repository\n Opening the \"Save from net\" website\n")
-			
+		
 	except:
 		print("Something went wrong with the GEN server, trying the \"Save from net\" Server")
 		
-			
-	try:
-		from selenium import webdriver
-
-	except:
-		print("The Selenium module is missing\n Please install the selenium module\n")
-	dlink= "https://www.ss"+ dlink[12:]
-	browser= webdriver.Firefox()
-	browser.get(dlink)
-
-	link = browser.find_elements_by_link_text('Download')
-
-	if len(link)==0:
-		print("Downloadable file NOT FOUND, \nExiting... \n")
-		exit()
 		
-	link[0].click()
+		#####  GOING FOR THE SAVE FROM NET ######
+		
+	if len(elems)==0:
+		print("The 720p downloadable file is missing from the Gen repository\n Opening the \"Save from net\" website\n")		
+		try:
+			from selenium import webdriver
 
-	print("Commencing the download via Browser\n PLEASE SELECT SAVE AS \n\n THANK YOU")
-	
-	exit()
+		except:
+			print("The Selenium module is missing\n Please install the selenium module\n")
+		dlink= "https://www.ss"+ dlink[12:]
+		browser= webdriver.Firefox()
+		browser.get(dlink)
+
+		link = browser.find_elements_by_link_text('Download')
+
+		if len(link)==0:
+			print("Downloadable file NOT FOUND, \nExiting... \n")
+			exit()
+			
+		link[0].click()
+
+		print("Commencing the download via Browser\n PLEASE SELECT SAVE AS \n\n THANK YOU")
+		
+		#exit()
 	
 	
 	
@@ -116,7 +117,7 @@ def fb():
 	
 	print("Thank you for using this service")
 	
-	exit()
+	#exit()
 	
 	
 ###############################################################################
@@ -226,7 +227,7 @@ def anime():
 		ulink=FDlink[1].get_attribute('href')
 		
 	browser.get(ulink)
-	exit()
+	#exit()
 	
 #######################################
 
@@ -265,7 +266,7 @@ def ask():
 
 
 	
-import pyperclip
+import pyperclip, time
 ulink  = pyperclip.paste();
 
 if ulink.startswith('https://www.youtube.com'):
@@ -275,10 +276,13 @@ if ulink.startswith('https://www.youtube.com'):
 	if answer=='y':
 		print("\nDownloading the youtube video\n")
 		uDown(ulink)
-		exit()
+		#exit()
 	else:
 		print("\nWhat would you like to do? ^_^\n")
 		ask()
 else:
 	print("\nDid not find any links in the ClipBoard, let's do somthing.  ^_^\n")
 	ask()
+	
+	
+time.sleep(100000)
